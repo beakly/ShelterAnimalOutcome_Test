@@ -4,7 +4,7 @@ import pandas as pd
 
 # filepath
 mac_path = "/Users/rocket/projects/datarobot"
-lin_path = "/users/luna/home/projects/datarobot"
+lin_path = "/home/luna/projects/datarobot"
 
 subproj_path = "ShelterAnimalOutcome"
 
